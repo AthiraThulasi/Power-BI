@@ -26,6 +26,17 @@ This project involves analyzing sales data from an eCommerce store to derive mea
 4. **How does profit fluctuate month over month?**
 5. **Which state is the most profitable?**
 
+### Learnings / Key Takeaways
+In this sales analysis project, I gained valuable experience in data cleaning and manipulation using Power BI. 
 
+**Key activities included:**
+
+**Data Cleaning:** Ensured data accuracy and consistency by identifying and correcting errors, handling missing values, and removing duplicates.
+
+**Data Transformation:** Utilized Power Query to transform raw data into a structured format suitable for analysis, including filtering, aggregating, and reshaping data.
+
+**Data Loading:** Successfully loaded the cleaned and transformed data into Power BI for visualization and analysis.
+
+**Average Order Value (AOV) Calculation:** Added a new column to calculate the Average Order Value, enhancing the insights derived from the sales data.
 
 
