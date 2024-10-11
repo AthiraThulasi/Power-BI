@@ -26,6 +26,19 @@ This project involves analyzing sales data from an eCommerce store to derive mea
 4. **How does profit fluctuate month over month?**
 5. **Which state is the most profitable?**
 
+### Explanation of Questions in the Chart
+I chose to incorporate questions directly into the chart rather than simply labeling the X and Y variables for several reasons:
+
+**Clarity of Purpose:** Each question clearly defines the focus of the analysis, helping viewers understand the specific insights the chart aims to provide. This approach ensures that the audience knows exactly what information they should glean from the data.
+
+**Engagement:** Posing questions encourages viewers to think critically about the data presented. It invites them to explore the answers actively rather than passively reading labels.
+
+**Contextual Relevance:** The questions provide context to the data, connecting it to real business concerns. By framing the insights in terms of questions, the analysis aligns more closely with strategic objectives, making it easier for stakeholders to relate to the findings.
+
+**Facilitates Discussion:** Presenting questions fosters a more interactive dialogue among team members or stakeholders when reviewing the chart. It opens up opportunities for discussion on the insights, implications, and next steps based on the findings.
+
+**Focus on Actionable Insights:** The questions highlight key areas of interest and focus on actionable insights that can drive decision-making, rather than merely presenting data points without context.
+
 ### Learnings / Key Takeaways
 In this sales analysis project, I gained valuable experience in data cleaning and manipulation using Power BI. 
 
