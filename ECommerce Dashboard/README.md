@@ -1,4 +1,4 @@
-# eCommerce Sales Analysis: A Comprehensive Online Sales Overview
+## eCommerce Sales Analysis: A Comprehensive Online Sales Overview using Power BI
 
 ![ECommerce Dashboard](https://github.com/AthiraThulasi/Power-BI/blob/main/ECommerce%20Dashboard/ECommerce_Dashboard_Git.png)
 
