@@ -5,9 +5,10 @@
 
 This project involves analyzing sales data from an eCommerce store to derive meaningful insights into customer behavior, product performance, and overall profitability. The dashboard was created using Power BI, with an emphasis on interactive visuals that help stakeholders quickly identify key trends and make data-driven decisions.
 
-## TABLES – Order Table & Details Table
+# TABLES – Order Table & Details Table
 
 **Order Table – Order ID, Order Date, Customer Name, State, City**
+
 **Details Table – Order ID, Amount, Profit, Quantity, Category, Sub-Category, Payment Mode**
 
 ### Key Insights Included in the Dashboard:
